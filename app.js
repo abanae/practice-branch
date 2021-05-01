@@ -1,1 +1,2 @@
-conts someVar = 'someVar'
+const someVar = 'someVar'
+console.log (myName);
